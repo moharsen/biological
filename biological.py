@@ -1,3 +1,4 @@
+#This code trains a random forest model and produces probabilities on a test dataset
 from sklearn.ensemble import RandomForestClassifier
 from numpy import genfromtxt, savetxt
 
